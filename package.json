@@ -1,0 +1,25 @@
+{
+  "name": "news-digest",
+  "version": "1.0.0",
+  "description": "A minimal news digest telegram bot",
+  "keywords": [
+    "telegram",
+    "news",
+    "digest"
+  ],
+  "homepage": "https://github.com/Divyanshu0902/NewsDigest#readme",
+  "bugs": {
+    "url": "https://github.com/Divyanshu0902/NewsDigest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyanshu0902/NewsDigest.git"
+  },
+  "license": "MIT",
+  "author": "Divyanshu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
